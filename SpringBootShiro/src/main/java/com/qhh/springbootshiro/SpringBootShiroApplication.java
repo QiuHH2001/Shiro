@@ -1,13 +1,13 @@
-package com.qhh.sprintbootshiro;
+package com.qhh.springbootshiro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SprintBootShiroApplication {
+public class SpringBootShiroApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SprintBootShiroApplication.class, args);
+        SpringApplication.run(SpringBootShiroApplication.class, args);
     }
 
 }
